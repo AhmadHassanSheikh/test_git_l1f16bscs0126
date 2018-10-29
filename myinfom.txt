@@ -1,3 +1,7 @@
+" <<<<<<<Head 
 "Name: Ahmad Hassan "
+=======
+Name:Ahmad hassan sheikh
+>>>>>>>
 Email: ahmad030019@gmail.com
 Faculty Of Information Technology
